@@ -1,3 +1,5 @@
+//Jonathan Zavialov :)
+
 async function initTetris(){
     let board = new Board()
     let game = new Tick(500)
